@@ -1,5 +1,5 @@
 # Mundo Invertido 
-#### Criando a página com Tema da Serie stranger things | Digital innovation one 
+#### Criando a página com Tema da Série stranger things | Digital innovation one 
 
 Projeto de uma pagina web. utilizando-se:
 
